@@ -83,7 +83,7 @@ AI/ML Engineer with **3+ years** of experience delivering production-grade machi
 
 ### AI Engineer — UnitedHealth Group, USA  `Jan 2025 – Present`
 
-- Designed a **multi-agent prior-authorization architecture** using LangGraph on AWS Bedrock (Claude 3.5 Sonnet) — planner, retriever, and reviewer agents — cutting turnaround from **3 days to under 4 hours** across **2M+** annual requests.
+- Designed a **multi-agent prior-authorization architecture** using LangGraph on AWS Bedrock (Claude 3.5 Sonnet) planner, retriever, and reviewer agents, cutting turnaround from **3 days to under 4 hours** across **2M+** annual requests.
 - Built a production **RAG pipeline over 50,000+** clinical policy documents with document chunking, hybrid search, and reranking (Pinecone + Amazon Titan Embeddings V2), reaching **94% retrieval accuracy** for CMS-0057-aligned decisions.
 - Cut manual clinical review workload **40%** with LangGraph agent nodes for parallel eligibility verification, EHR extraction, and policy-compliance checks.
 - Implemented **LLMOps observability** (RAGAS + CloudWatch), lifting pipeline accuracy from **78% → 91%** while reducing inference cost **35%**.
@@ -104,7 +104,7 @@ AI/ML Engineer with **3+ years** of experience delivering production-grade machi
 ### 🩺 Clinical Documentation LLM Fine-Tuning
 `PyTorch` · `Hugging Face PEFT` · `QLoRA` · `Llama 3.1` · `MLflow` · `FastAPI`
 
-Fine-tuned **Llama 3.1-8B** on 50,000+ clinical notes using QLoRA (4-bit) and Hugging Face PEFT, with guardrails and red-teaming that cut hallucination **34%** and improved entity-extraction accuracy **28%**. Tracked 12 iterations in MLflow and shipped a HIPAA-compliant FastAPI endpoint — **3× faster inference** while keeping **96%** of full-precision accuracy.
+Fine-tuned **Llama 3.1-8B** on 50,000+ clinical notes using QLoRA (4-bit) and Hugging Face PEFT, with guardrails and red-teaming that cut hallucination **34%** and improved entity-extraction accuracy **28%**. Tracked 12 iterations in MLflow and shipped a HIPAA-compliant FastAPI endpoint, **3× faster inference** while keeping **96%** of full-precision accuracy.
 
 ### ⚡ Real-Time Fraud Detection Pipeline
 `Apache Kafka` · `Apache Flink` · `Feast` · `Redis` · `SHAP` · `Grafana` · `FastAPI`
