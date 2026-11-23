@@ -153,12 +153,6 @@ Kafka–Flink streaming pipeline with real-time feature engineering and Redis-ba
 
 ---
 
-## 📊 GitHub Stats
-
-![Abhishekth's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhishekthreddy&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishekthreddy&layout=compact&hide_border=true)
-
----
 
 ## 📫 Let's Connect
 
