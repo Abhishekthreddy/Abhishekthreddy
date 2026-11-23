@@ -1,6 +1,6 @@
 # Hi, I'm Abhishekth Reddy Thanam 👋
 
-### AI/ML Engineer — LLMs · Agentic RAG Systems · MLOps | Finance & Healthcare
+### AI Engineer — Agentic AI · LLM Evaluation & Guardrails | Healthcare
 
 📍 USA (Open to Relocate)
 
@@ -13,109 +13,142 @@
 
 ## 🧠 About Me
 
-AI/ML Engineer with **3+ years** of experience delivering production-grade machine learning and agentic AI systems across **healthcare** and **financial services**. I specialize in **multi-agent orchestration with LangGraph**, **RAG pipeline architecture**, and domain-specific **LLM fine-tuning with LoRA/PEFT**, deployed at enterprise scale on cloud infrastructure.
+AI Engineer with **4+ years** of experience building production AI systems in **healthcare**. I specialize in **agentic AI and multi-agent workflows** with **LangGraph**, **MCP tool calling** and **RAG** on **AWS** (Bedrock, SageMaker, EKS, OpenSearch) and **GCP** (Vertex AI).
 
-- 🏥 Cut clinical prior-authorization turnaround from **3 days to under 4 hours** at **UnitedHealth Group**
-- 💳 Built **AML classification** and **real-time fraud detection** systems at **State Street**
-- 🤖 Focused on agentic RAG, LLMOps observability, and cost-efficient model deployment
+- 🏥 Built **HIPAA-compliant multi-agent platforms** for prior authorization and clinical workflows at **UnitedHealth Group**, cutting authorization turnaround from **days to hours**
+- 🧪 Back every release with **LLM evaluation** (LangSmith, DeepEval, LLM-as-a-judge) as automated CI/CD gates
+- 🛡️ Ship with **layered guardrails**: Bedrock Guardrails, NeMo Guardrails, PHI redaction and human-in-the-loop review
+- 🔧 Background in ML engineering, clinical NLP, LLM fine-tuning (QLoRA) and MLOps (MLflow, Airflow, CI/CD)
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages & Tools**
+**Agentic AI & LLMs**
+
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat&logo=langgraph&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![Amazon Bedrock](https://img.shields.io/badge/Amazon%20Bedrock-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI%20%2F%20Azure%20OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![Llama 3.1](https://img.shields.io/badge/Llama%203.1-0467DF?style=flat&logo=meta&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
+
+`Multi-Agent Orchestration` · `MCP` · `Tool Calling` · `RAG` · `Prompt Engineering` · `Fine-Tuning (QLoRA/PEFT)`
+
+**Retrieval**
+
+`Hybrid Search (BM25 + Vector)` · `Cross-Encoder Reranking` · `Embeddings (Bedrock Titan, OpenAI)` · `Chunking Strategies`
+
+**LLM Evaluation & Guardrails**
+
+`LangSmith` · `DeepEval` · `RAGAS` · `LLM-as-a-Judge` · `Golden Datasets` · `Hallucination & Faithfulness Metrics` · `Bedrock Guardrails` · `NeMo Guardrails` · `PHI/PII Redaction` · `Prompt-Injection Defense` · `Human-in-the-Loop` · `HIPAA`
+
+**Machine Learning & NLP**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=flat&logoColor=white)
+![LightGBM](https://img.shields.io/badge/LightGBM-9ACD32?style=flat&logoColor=white)
+![spaCy](https://img.shields.io/badge/scispaCy-09A3D5?style=flat&logo=spacy&logoColor=white)
+
+`BioBERT` · `Clinical NER` · `SHAP Explainability`
+
+**Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL%20(pgvector)-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=flat&logo=googlebigquery&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat&logo=redis&logoColor=white)
+![OpenSearch](https://img.shields.io/badge/Amazon%20OpenSearch-005EB8?style=flat&logo=opensearch&logoColor=white)
+
+`ChromaDB` · `FAISS`
+
+**MLOps & Deployment**
+
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes%20(EKS)-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+`CI/CD (GitHub Actions, Cloud Build)` · `Model Monitoring & Drift Detection`
+
+**Cloud Platforms**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+
+`AWS: Bedrock · SageMaker · Lambda · EKS · OpenSearch · S3` · `GCP: Vertex AI · BigQuery · Cloud Composer · Healthcare API · Cloud Run` · `Azure: OpenAI`
+
+**Data Engineering**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apachespark&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
-
-**LLM & GenAI**
-
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat&logo=langgraph&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
-![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white)
-![LLaMA](https://img.shields.io/badge/LLaMA-0467DF?style=flat&logo=meta&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI%20GPT-412991?style=flat&logo=openai&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat&logo=pinecone&logoColor=white)
-
-`RAG` · `Agentic RAG` · `Multi-Agent Workflows` · `Tool/Function Calling` · `Semantic Routing` · `Hybrid Search` · `Reranking` · `LoRA/PEFT` · `Quantization` · `Prompt Engineering` · `Embeddings (Titan V2)` · `RAGAS` · `Guardrails` · `Hallucination Checks`
-
-**ML & Analytics**
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=flat&logoColor=white)
-![BERT](https://img.shields.io/badge/BERT-4285F4?style=flat&logoColor=white)
-![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat&logo=spacy&logoColor=white)
-![SHAP](https://img.shields.io/badge/SHAP-000000?style=flat&logoColor=white)
-
-**Data & Cloud**
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
 ![Flink](https://img.shields.io/badge/Apache%20Flink-E6526F?style=flat&logo=apacheflink&logoColor=white)
-![Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat&logo=redis&logoColor=white)
 
-**MLOps & LLMOps**
+`Feast` · `ETL Pipelines` · `FHIR/HL7`
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+**Visualization & Collaboration**
+
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
 
-`AKS` · `AWS ECS` · `GCP Vertex AI` · `BigQuery ML` · `CI/CD` · `Model Monitoring` · `CloudWatch`
+`Agile (Scrum)` · `Stakeholder Communication`
 
 ---
 
 ## 💼 Experience
 
-### AI Engineer — UnitedHealth Group, USA  `Jan 2025 – Present`
+### Artificial Intelligence Engineer — UnitedHealth Group, USA  `Jun 2025 – Present`
 
-- Designed a **multi-agent prior-authorization architecture** using LangGraph on AWS Bedrock (Claude 3.5 Sonnet) planner, retriever, and reviewer agents, cutting turnaround from **3 days to under 4 hours** across **2M+** annual requests.
-- Built a production **RAG pipeline over 50,000+** clinical policy documents with document chunking, hybrid search, and reranking (Pinecone + Amazon Titan Embeddings V2), reaching **94% retrieval accuracy** for CMS-0057-aligned decisions.
-- Cut manual clinical review workload **40%** with LangGraph agent nodes for parallel eligibility verification, EHR extraction, and policy-compliance checks.
-- Implemented **LLMOps observability** (RAGAS + CloudWatch), lifting pipeline accuracy from **78% → 91%** while reducing inference cost **35%**.
-- Deployed containerized AI microservices on AWS ECS (Docker + GitHub Actions CI/CD) at **99.9% uptime**, cutting inference latency **35%**.
+- Architected and deployed a **multi-agent prior-authorization system** using **LangGraph** and **MCP tool calling** on AWS (Bedrock, Lambda, EKS), orchestrating intake, clinical-evidence and determination agents to cut authorization turnaround from **days to hours**.
+- Built an **LLM evaluation framework** using LangSmith, DeepEval and LLM-as-a-judge against clinician-labeled golden datasets, tracking accuracy, policy faithfulness and hallucination rate as **automated CI/CD release gates**.
+- Implemented **HIPAA-compliant guardrails** using Bedrock Guardrails and NeMo Guardrails for PHI redaction, prompt-injection defense and schema-validated outputs, with clinician-in-the-loop review for every adverse determination.
+- Developed a **secure MCP tool gateway** with typed contracts, OAuth-based access control, rate limiting and audit logging, giving agents least-privilege access to claims, eligibility and FHIR-based EHR systems.
+- Designed a **hybrid retrieval pipeline over 50K+** payer policy and clinical guideline documents using Amazon OpenSearch vector search, Bedrock Titan embeddings, BM25 and cross-encoder reranking, improving retrieval precision by **~30%** with source-cited answers.
 
-### ML Engineer — State Street, India  `Jun 2021 – Jul 2023`
+### Graduate Research Analyst — Robert Morris University, USA  `Jan 2024 – May 2025`
 
-- Deployed an **XGBoost AML classification** model on GCP Vertex AI, reducing false-positive alerts **38%** and improving true-positive detection **25%**.
-- Built a regression-based **NAV prediction** model in BigQuery ML for **500+** institutional funds at **0.03% MAE**, supporting a 40% cut in manual valuation reviews.
-- Applied **BERT-based NLP** to broker confirmations and loan-agent notices, digitizing documents at **92% extraction accuracy** across **10,000+** daily trade documents.
-- Built feature/ETL pipelines (Python + Apache Spark on Azure) consolidating **20+** custodian feeds into Snowflake, cutting ingestion latency from **6 hours → 45 minutes**.
-- Automated data reconciliation (SQL + Azure Data Factory), reducing manual effort **70%** and supporting **Basel III / FATF** regulatory traceability.
+- Built a **RAG-based academic advising assistant** (LangChain, OpenAI, ChromaDB) over RMU's student handbook, course catalog and policies, giving students instant source-cited answers on prerequisites, deadlines and degree requirements.
+- Engineered **hybrid retrieval (BM25 + vector search)** with recursive chunking and OpenAI embeddings, validated with **RAGAS on 200+** test questions, improving answer accuracy by **25%** over a baseline LLM.
+- Analyzed student engagement and enrollment data with Python, SQL and Tableau to surface frequent advising questions and course-demand trends, presenting findings to faculty and administrators.
+
+### Machine Learning Engineer — Citius Health, India  `Jan 2022 – Jun 2023`
+
+- Developed **30-day readmission and high-risk patient prediction models** with XGBoost and scikit-learn on **500K+** EHR and claims records in BigQuery for a US payer client, reaching **ROC-AUC 0.82** with SHAP explainability for clinical review.
+- Built a **clinical NLP pipeline** using BioBERT and scispaCy to extract diagnoses, medications and procedures from clinical notes into FHIR resources via Google Cloud Healthcare API, improving coding accuracy by **20%**.
+- Deployed models on **Vertex AI** with Vertex Pipelines, Cloud Composer (Airflow), Docker and Cloud Build CI/CD, adding model monitoring, drift detection and scheduled retraining for HIPAA-compliant production releases.
+- Prototyped a **LangChain + GPT-3.5 question-answering assistant** over payer policy and clinical guideline documents on Cloud Run, with grounded, source-cited answers that shaped the client's GenAI roadmap.
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🩺 Clinical Documentation LLM Fine-Tuning
-`PyTorch` · `Hugging Face PEFT` · `QLoRA` · `Llama 3.1` · `MLflow` · `FastAPI`
+`PyTorch` · `QLoRA / PEFT` · `Llama 3.1-8B` · `MLflow` · `FastAPI`
 
-Fine-tuned **Llama 3.1-8B** on 50,000+ clinical notes using QLoRA (4-bit) and Hugging Face PEFT, with guardrails and red-teaming that cut hallucination **34%** and improved entity-extraction accuracy **28%**. Tracked 12 iterations in MLflow and shipped a HIPAA-compliant FastAPI endpoint, **3× faster inference** while keeping **96%** of full-precision accuracy.
+Fine-tuned **Llama 3.1-8B** with QLoRA/PEFT, cutting hallucinations by **34%** and raising clinical entity-extraction accuracy by **28%**. Tracked 12 iterations in MLflow and deployed a quantized FastAPI endpoint with **3× faster inference** at **96%** of full-precision accuracy.
 
-### ⚡ Real-Time Fraud Detection Pipeline
-`Apache Kafka` · `Apache Flink` · `Feast` · `Redis` · `SHAP` · `Grafana` · `FastAPI`
+### ⚡ [Real-Time Fraud Detection Pipeline](https://github.com/Abhishekthreddy/Real-Time-Fraud-Detection)
+`Apache Kafka` · `Apache Flink` · `Feast` · `Redis` · `FastAPI` · `SHAP` · `Grafana`
 
-Event-driven architecture on Kafka + Flink ingesting **100K+ transactions/sec**, feeding live features into a fraud model at **94.2% true-positive rate** with **sub-100ms latency**. Signals served via a Feast + Redis feature store, deployed as a FastAPI REST API with **SHAP explainability** for audit compliance.
+Kafka–Flink streaming pipeline with real-time feature engineering and Redis-backed Feast feature serving, plus low-latency FastAPI fraud scoring with SHAP explainability and Grafana monitoring.
 
 ---
 
 ## 🎓 Education & Certifications
 
 - **M.S. in Data Analytics** — Robert Morris University, USA  `Aug 2023 – May 2025`
+- **B.Tech in Computer Science Engineering** — ICFAI University, India  `Aug 2019 – Jun 2023`
 - **AWS Certified Machine Learning Engineer – Associate**
 
 ---
@@ -134,4 +167,4 @@ Event-driven architecture on Kafka + Flink ingesting **100K+ transactions/sec**,
 - 📧 Email: balathanam2002@gmail.com
 - 📞 Phone: +1 (813) 895-9529
 
-> *Open to AI/ML Engineer roles across the USA — open to relocate.*
+> *Open to AI Engineer roles across the USA — open to relocate.*
