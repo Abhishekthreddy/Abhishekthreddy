@@ -5,7 +5,7 @@
 📍 USA (Open to Relocate)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishekthreddy/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-2B32B2?style=for-the-badge&logo=vercel&logoColor=white)](https://abhishekth-portfolio.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-2B32B2?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portfolio-nu-wine-66.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:balathanam2002@gmail.com)
 [![Phone](https://img.shields.io/badge/+1%20813--895--9529-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+18138959529)
 
@@ -156,7 +156,7 @@ Kafka–Flink streaming pipeline with real-time feature engineering and Redis-ba
 
 ## 📫 Let's Connect
 
-- 🌐 Portfolio: [abhishekth-portfolio.vercel.app](https://abhishekth-portfolio.vercel.app/)
+- 🌐 Portfolio: [my-portfolio-nu-wine-66.vercel.app](https://my-portfolio-nu-wine-66.vercel.app/)
 - 💼 LinkedIn: [linkedin.com/in/abhishekthreddy](https://www.linkedin.com/in/abhishekthreddy/)
 - 📧 Email: balathanam2002@gmail.com
 - 📞 Phone: +1 (813) 895-9529
